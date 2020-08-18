@@ -2,6 +2,7 @@
 
 <h2 align="center">:movie_camera: Visualização do Projeto</h23>
 
+
 ![Jumping Name](https://github.com/SuhMoraes/AnimationCSS/blob/master/My_name.gif)
 
 <h2 align="center">💻 Projeto</h2>
