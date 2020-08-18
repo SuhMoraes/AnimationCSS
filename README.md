@@ -17,3 +17,5 @@ h3 align="center">Preview of Animation</h3>
 
 
 <h3 align="center">Lincense</h3>
+
+Para saber mais sobre a Lincença MIT. [Lincense]https://github.com/SuhMoraes/AnimationCSS/blob/master/LICENSE 
