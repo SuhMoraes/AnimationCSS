@@ -9,7 +9,7 @@
 
 ![HTML5](https://icongr.am/devicon/html5-original-wordmark.svg?size=29&color=currentColor) ![CSS5](https://icongr.am/devicon/css3-original-wordmark.svg?size=29&color=currentColor)
 
-- [x] Utilização da tag '<span></span>' na especificação do elememto.
+- [x] Utilização da tag `span` na especificação do elememto.
 - [x] `@keyframes` utilizada como regra específica no código de animação.
 - [x] `tranform` usado para dar movimento nas teclas.
 - [x] `animation-delay` para especificar um atraso do início da execução da animação.
