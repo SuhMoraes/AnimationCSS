@@ -1,13 +1,15 @@
 <h1>Animação em CSS</h1>
 
-<h3 align="center">:movie_camera: Visualização do Projeto</h3>
+<h2 align="center">:movie_camera: Visualização do Projeto</h23>
 
 ![Jumping Name](https://github.com/SuhMoraes/AnimationCSS/blob/master/My_name.gif)
 
-<h3 align="center">💻 Projeto</h3>
+<h2 align="center">💻 Projeto</h2>
+
 <p align="center">Projeto desenvolvido baseado do Tutorial no Youtube, imitando um teclado com as letras do meu nome.</p>
 
-<h3 align="center">🚀 Tecnologia</h3>
+<h2 align="center">🚀 Tecnologia</h2>
+
 
 ![HTML5](https://icongr.am/devicon/html5-original-wordmark.svg?size=29&color=currentColor) ![CSS5](https://icongr.am/devicon/css3-original-wordmark.svg?size=29&color=currentColor)
 
@@ -18,7 +20,8 @@
 - [x] `box-shadow` para definir várias sombras existentes na animação.
 
 
-<h3 align="center">:memo: Lincença</h3>
+<h2 align="center">:memo: Lincença</h2>
+
 
  Este projeto esta sob a Licença MIT. Leia a Licença para obeter mais detalhes.[LICENSE](https://github.com/SuhMoraes/AnimationCSS/blob/master/LICENSE)
 
