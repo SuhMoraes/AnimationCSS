@@ -2,6 +2,8 @@
 
 <h3 align="center">:movie_camera: Visualização do Projeto</h3>
 
+![Jumping Name](https://github.com/SuhMoraes/AnimationCSS/blob/master/My_name.gif)
+
 <h3 align="center">💻 Projeto</h3>
 <p align="center">Projeto desenvolvido baseado no Tutorial no Youtube, imitando um teclado com as letras do meu nome.</p>
 
