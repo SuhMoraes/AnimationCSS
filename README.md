@@ -1,6 +1,6 @@
 <h1>Animação em CSS</h1>
 
-<h3 align="center">:movie_camera: Preview of Animation</h3>
+<h3 align="center">:movie_camera: Visualização do Projeto</h3>
 
 <h3 align="center">💻 Projeto</h3>
 <p align="center">Projeto desenvolvido baseado no Tutorial no Youtube, imitando um teclado com as letras do meu nome.</p>
@@ -16,7 +16,7 @@
 - [x] `box-shadow` para definir várias sombras existentes na animação.
 
 
-<h3 align="center">:memo: Lincense</h3>
+<h3 align="center">:memo: Lincença</h3>
 
  Este projeto esta sob a Licença MIT. Leia a Licença para obeter mais detalhes.[LICENSE](https://github.com/SuhMoraes/AnimationCSS/blob/master/LICENSE)
 
