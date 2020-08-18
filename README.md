@@ -1,6 +1,6 @@
 <h1>Animação em CSS</h1>
 
-h3 align="center">:movie_camera: Preview of Animation</h3>
+<h3 align="center">:movie_camera: Preview of Animation</h3>
 
 <h3 align="center">💻 Projeto</h3>
 <p align="center">Projeto desenvolvido baseado no Tutorial no Youtube, imitando um teclado com as letras do meu nome.</p>
