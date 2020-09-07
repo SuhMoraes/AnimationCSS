@@ -26,7 +26,7 @@
 
 <h1>:pushpin:Projeto - 2</h1>
 
-  <p>Projeto trazendo interação em 360 graus entre as fotos do card, informando de maneira individual cada foto ao passar o mouse sobre a foto.</p>
+  <p>Projeto trazendo interação em 360 graus entre as fotos do card, informando de maneira individual ao passar o mouse.</p>
   
 ![360graus](https://github.com/SuhMoraes/AnimationCSS/blob/master/360%20graus/gif/360Graus.gif)
 
