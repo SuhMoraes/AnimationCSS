@@ -30,7 +30,7 @@
   
 ![360graus](https://github.com/SuhMoraes/AnimationCSS/blob/master/360%20graus/gif/360Graus.gif)
 
-h2>🚀 Tecnologia</h2>
+<h2>🚀 Tecnologia</h2>
 
 
 ![HTML5](https://icongr.am/devicon/html5-original-wordmark.svg?size=29&color=currentColor) ![CSS5](https://icongr.am/devicon/css3-original-wordmark.svg?size=29&color=currentColor)
