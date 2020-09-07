@@ -23,10 +23,6 @@
 - [x] `box-shadow` para definir várias sombras existentes na animação.
 
 
-<h2>:memo: Lincença</h2>
-
-
- Este projeto esta sob a Licença MIT. Leia a Licença para obeter mais detalhes.[LICENSE](https://github.com/SuhMoraes/AnimationCSS/blob/master/LICENSE)
 
 <h1>:pushpin:Projeto - 2</h1>
 
@@ -39,6 +35,10 @@
 
 
 
+<h2>:memo: Lincença</h2>
+
+
+ Este projeto esta sob a Licença MIT. Leia a Licença para obeter mais detalhes.[LICENSE](https://github.com/SuhMoraes/AnimationCSS/blob/master/LICENSE)
 
 
 
