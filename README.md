@@ -10,7 +10,7 @@
 
 <p>Projeto desenvolvido baseado do Tutorial no Youtube, imitando um teclado com as letras do meu nome.</p>
 
-![Jumping Name](https://github.com/SuhMoraes/AnimationCSS/blob/master/My_name.gif)
+
 
 
 <h2>🚀 Tecnologia</h2>
