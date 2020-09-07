@@ -3,13 +3,11 @@
 <h2 align="center">:movie_camera: Visualização do Projeto</h23>
 
 <h1>:pushpin:Projeto - 1</h1>
-
-![Jumping Name](https://github.com/SuhMoraes/AnimationCSS/blob/master/My_name.gif)
-
-
-
 <p>Projeto desenvolvido baseado do Tutorial no Youtube, imitando um teclado com as letras do meu nome.</p>
 
+
+
+![Jumping Name](https://github.com/SuhMoraes/AnimationCSS/blob/master/My_name.gif)
 
 
 
@@ -31,6 +29,10 @@
  Este projeto esta sob a Licença MIT. Leia a Licença para obeter mais detalhes.[LICENSE](https://github.com/SuhMoraes/AnimationCSS/blob/master/LICENSE)
 
 <h1>:pushpin:Projeto - 2</h1>
+
+  <p>Projeto desenvolvido, para informar através de cards, as informações em 360 graus.</p>
+  
+![360graus](https://github.com/SuhMoraes/AnimationCSS/blob/master/360%20graus/gif/360Graus.gif)
 
 
 
