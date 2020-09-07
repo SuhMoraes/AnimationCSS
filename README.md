@@ -40,7 +40,7 @@
 
 
 
-<h2>:memo: Lincença</h2>
+<h2>:memo: Licença</h2>
 
 
  Este projeto esta sob a Licença MIT. Leia a Licença para obeter mais detalhes.[LICENSE](https://github.com/SuhMoraes/AnimationCSS/blob/master/LICENSE)
